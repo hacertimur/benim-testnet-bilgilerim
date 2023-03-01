@@ -1,7 +1,7 @@
 <center> ## Katıldığım projeler </center>
 
-# Ağ projeleri
+# Ağ projeleri 
 
-- Celestia
-- Stratos
-- Aleo.
+Celestia
+Stratos
+Aleo
