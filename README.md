@@ -1,7 +1,7 @@
-<center> ## Katıldığım projeler </center>
+<h1 align"center">Katıldığım projeler</h1>
 
-# Ağ projeleri 
+# Ağ projeleri
 
-Celestia
-Stratos
-Aleo
+- Celestia
+- Stratos
+- Aleo
