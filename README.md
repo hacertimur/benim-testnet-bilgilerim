@@ -1,6 +1,7 @@
-<h1 align="center">Katıldığım projeler</h1>
+<center> ## Katıldığım projeler </center>
 
+# Ağ projeleri
 
-
-
-# Başlık
+- Celestia
+- Stratos
+- Aleo.
